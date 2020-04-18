@@ -50,4 +50,3 @@ else:
     elif menu == '6':
         print(*(set(newdict[name2]) - set(newdict[name1])))
 
-print(newdict)
